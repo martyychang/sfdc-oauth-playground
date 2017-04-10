@@ -3,7 +3,6 @@
     <types>
         <members>AuthController</members>
         <members>OAuth</members>
-        <members>OauthSigner</members>
         <members>OAuthTests</members>
         <members>TestController</members>
         <name>ApexClass</name>
