@@ -1,2 +1,8 @@
+# MavensMate Desktop
+config/
+
+# Sublime Text
+*.sublime*
+
 # Workbench
 *.zip
