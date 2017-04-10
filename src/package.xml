@@ -57,5 +57,5 @@
         <members>OAuthService__c.All</members>
         <name>ListView</name>
     </types>
-    <version>16.0</version>
+    <version>39.0</version>
 </Package>
